@@ -1,0 +1,95 @@
+
+
+Communications protocol for data transmission
+	-TCP/IP
+		-communication protocols used to interconnect network 
+		devices on the internet. Can also be used as a private 
+		network. The communication uses a Client which is the 
+		user or machine and a Server.
+	-UDP is more faster because it nonexistent of acknowledging 
+		packet when streaming. TCP uses the windows size and 				RRT (round trip)
+			TCP mechanism helps detecting error, duplicate
+			packets, delayed packets. 
+	-FTP
+		-it used to transfer one or more files and can be carried by
+		Client A and Server B. Server-to-server. FTP normally uses
+		Port number 21 and usually requires username and 
+		password. FTP can send data in plaintext but not sensitive
+		information.
+
+	-HTTP
+		-Is a protocol designed to transfer information between 
+		computers over world-wide-web. Information can be
+		documents, file, image, video.	
+
+	Interview Question:
+
+	1.port number for HTML: 4438
+	21 forFTP
+	1200 for others
+
+	2. IP address range for 10.10.0.1/6:
+	10.10.0.0/16 — 00001010.00001010.00000000.00000000
+   				Class A
+
+
+	3. How many data centers has facebook have:
+	 (9= Denmark, Ireland, and states) the truth is facebook doesn’t 			publicly tell where so It can’t be a 1000s nor single digits.
+
+	4. Forum: stack overflow and cplusplus, GitHub and Gitlab. Sometimes Facebook has
+		private group. 
+
+	5. I use VMWare and VirtualBox.
+	
+	6. What do you do if you can’t finish the projects.?
+
+=====================================================================
+
+
+
+
+Communications protocol for data transmission
+	-TCP/IP
+		-communication protocols used to interconnect network 
+		devices on the internet. Can also be used as a private 
+		network. The communication uses a Client which is the 
+		user or machine and a Server.
+	-UDP is more faster because it nonexistent of acknowledging 
+		packet when streaming. TCP uses the windows size and 				RRT (round trip)
+			TCP mechanism helps detecting error, duplicate
+			packets, delayed packets. 
+	-FTP
+		-it used to transfer one or more files and can be carried by
+		Client A and Server B. Server-to-server. FTP normally uses
+		Port number 21 and usually requires username and 
+		password. FTP can send data in plaintext but not sensitive
+		information.
+
+	-HTTP
+		-Is a protocol designed to transfer information between 
+		computers over world-wide-web. Information can be
+		documents, file, image, video.	
+
+	Interview Question:
+
+	1.port number for HTML: 4438
+	21 forFTP
+	1200 for others
+
+	2. IP address range for 10.10.0.1/6:
+	10.10.0.0/16 — 00001010.00001010.00000000.00000000
+   				Class A
+
+
+	3. How many data centers has facebook have:
+	 (9= Denmark, Ireland, and states) the truth is facebook doesn’t 			publicly tell where so It can’t be a 1000s nor single digits.
+
+	4. Forum: stack overflow and cplusplus, GitHub and Gitlab. Sometimes Facebook has
+		private group. 
+
+	5. I use VMWare and VirtualBox.
+	
+	6. What do you do if you can’t finish the projects.?
+
+
+
